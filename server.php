@@ -1,5 +1,6 @@
 <?php
-
+//teste de comite
+//teste de commit
 /**
  * Laravel - A PHP Framework For Web Artisans
  *
